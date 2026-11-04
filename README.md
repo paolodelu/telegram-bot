@@ -47,4 +47,4 @@ requirements.txt  dependencies
 Never share or commit your bot token. If it leaks, revoke it with `/revoke` in @BotFather.
 
 ## Need a custom bot?
-I build Telegram bots and automation scripts in Python. Find me on Fiverr: *(add your link here)*
+I build Telegram bots and automation scripts in Python. I build Telegram bots and automation scripts in Python. Find me on Fiverr: [My Fiverr gig](https://www.fiverr.com/paolodelu)
